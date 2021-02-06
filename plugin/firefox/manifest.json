@@ -10,7 +10,7 @@
         }
     },
 
-    "description": "Scans if the certificate is not victim according to Certi-SANs project",
+    "description": "TRANSperant CERTificate scans if the certificate is not victim according to Certi-SANs project",
 
     "icons": {
         "32": "icons/transcert.png"
